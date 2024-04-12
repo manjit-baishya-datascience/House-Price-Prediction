@@ -1,7 +1,7 @@
 # **House Price Trend Analysis and Price Prediction**
+![Asset 13](https://github.com/manjit-baishya-datascience/House-Price-Prediction/assets/127611924/2991fd55-d861-4e6d-9a40-726656b33dd6)
 
 ## **Contents**
-
 1. [**Author**](#author)
 2. [**Aim**](#aim)
 3. [**Statement of Work**](#statement-of-work)
