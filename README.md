@@ -1,6 +1,9 @@
 # **House Price Trend Analysis and Price Prediction**
 ![Asset 13](https://github.com/manjit-baishya-datascience/House-Price-Prediction/assets/127611924/2991fd55-d861-4e6d-9a40-726656b33dd6)
 
+`Machine Learning` `Regression` `Ensemble Techniques` `Data Analysis` `Visualization` 
+
+
 ## **Contents**
 1. [**Author**](#author)
 2. [**Aim**](#aim)
@@ -24,8 +27,8 @@
 5. Evaluate and compare the performance of different regression algorithms to identify the best-performing model for house price prediction.
 
 ## **About the Dataset**
-
-The dataset contains the following columns:
+This project focusses on `EDA` and predictions made with `ML`. It is available on both [**Kaggle**](https://www.kaggle.com/datasets/manjitbaishya001/house-prices-2023) and [**Github**](https://github.com/manjit-baishya-datascience/House-Price-Prediction).
+The dataset has been sourced from [**Kaggle**](https://www.kaggle.com/datasets/manjitbaishya001/house-prices-2023). The dataset contains the following columns:
 
 - `type`: Type of property (e.g., Flat, House)
 - `locality`: Location or locality of the property
